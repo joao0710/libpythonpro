@@ -6,6 +6,7 @@ Suportada versão 3 do python
 [![Build Status](https://travis-ci.org/joao0710/libpythonpro.svg?branch=master)](https://travis-ci.org/joao0710/libpythonpro)
 [![Updates](https://pyup.io/repos/github/joao0710/libpythonpro/shield.svg)](https://pyup.io/repos/github/joao0710/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/joao0710/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/joao0710/libpythonpro/)
+[![codecov](https://codecov.io/gh/joao0710/libpythonpro/branch/master/graph/badge.svg?token=UGRWBVAHG7)](undefined)
 
 Para instalar:
 
